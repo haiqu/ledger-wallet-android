@@ -18,12 +18,13 @@ Install Android SDK for API 22 (Lollipop 5.1.1) and set ANDROID_HOME
 Through Android SDK manager:
 
 Install Android support repository
-
 Install Google Play Services
-
 Install Google repository
-
 Install Google USB driver
+
+
+Download the package `android-support-v7-appcompat-master.zip` from https://github.com/haiqu/ledger-wallet-android/tree/master/app and extract it somewhere. Copy the two jar files from the libs directory to ledger-wallet-android/app/libs
+
 
 
 ## Building:
