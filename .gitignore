@@ -10,3 +10,4 @@ app/app.iml
 build/
 ledger-wallet-android.iml
 crowdin.yaml
+app/libs/android-support*
