@@ -11,12 +11,18 @@ Install Java 1.7 or later and set JAVA_HOME
 Install Gradle and set GRADLE_HOME
 
 Install Android SDK for API 22 (Lollipop 5.1.1) and set ANDROID_HOME
+
 (You can omit all Atom images, Android Wear and Android TV stuff)
 
+
 Through Android SDK manager:
+
 Install Android support repository
-Install Google Play Services 
+
+Install Google Play Services
+
 Install Google repository
+
 Install Google USB driver
 
 
