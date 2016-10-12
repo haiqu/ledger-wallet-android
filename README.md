@@ -1,5 +1,5 @@
 # ledger-wallet-android
-=====================
+-----------------------
 
 Ledger Wallet Android application
 
@@ -20,9 +20,9 @@ Install Google repository
 Install Google USB driver
 
 
-## Building
+## Building:
 
-At the command prompt, type `gradle.bat build` . If using Git Gui use `./gradle build`
+At the command prompt, type `gradlew.bat build` . If using Git Gui use `./gradlew build`
 
 If you get an unexpected warning related to gradle_daemon and not being able to reserve enough memory space, edit gradle.properties and change `-Xmx2048m` to `-Xmx1024m` . This happens in 32-bit Windows due to an OS limit of 3GB total physical memory.
 
